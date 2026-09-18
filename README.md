@@ -387,5 +387,3 @@ This project applies that mindset to an automotive seat-heater control system by
 ## Author
 
 Adham Muhammed
-
-Embedded Software | Real-Time Systems | Automotive Embedded Systems
