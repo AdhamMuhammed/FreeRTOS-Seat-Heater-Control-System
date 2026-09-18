@@ -2,8 +2,7 @@
 
 > A real-time automotive control system designed around FreeRTOS, event-driven input handling, closed-loop temperature control, fault diagnostics, and runtime performance analysis.
 
-![System Architecture](images/architecture.png)
-
+![System Architecture](Seat-Heater-Control-System-Archtiecture.png)
 ---
 
 ## Overview
